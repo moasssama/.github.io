@@ -1,2 +1,0 @@
-# moasssama.github.io
-jekyll
